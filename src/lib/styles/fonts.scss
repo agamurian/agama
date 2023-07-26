@@ -1,0 +1,127 @@
+@font-face {
+	font-family: 'Golos';
+	src: url('/fonts/golos/GolosText-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Golos';
+	src: url('/fonts/golos/GolosText-Medium.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Golos';
+	src: url('/fonts/GolosText-SemiBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Golos';
+	src: url('/fonts/golos/GolosText-ExtraBold.ttf') format('truetype');
+	font-style: bold;
+	font-weight: 800;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-Italic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-Medium.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-MediumItalic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-Semibold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-SemiboldItalic.ttf') format('truetype');
+	font-style: italic;
+	font-weight: 600;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url('/fonts/source-code-pro/SourceCodePro-ExtraBold.ttf') format('truetype');
+	font-style: bold;
+	font-weight: 800;
+	font-display: swap;
+}
+
+.f-sans {
+	font-family: Golos;
+}
+
+.f-mono {
+	font-family: Source Code Pro;
+}
+
+.f-400 {
+	font-weight: 400;
+}
+.f-500 {
+	font-weight: 500;
+}
+.f-600 {
+	font-weight: 600;
+}
+.f-800 {
+	font-weight: 800;
+}
+.f-italic {
+	font-style: italic;
+}
+
+.f-12 {
+	font-size: 12px;
+}
+.f-13 {
+	font-size: 13px;
+}
+.f-15 {
+	font-size: 15px;
+}
+.f-17 {
+	font-size: 17px;
+}
+.f-22 {
+	font-size: 22px;
+}
