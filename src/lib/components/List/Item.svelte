@@ -5,7 +5,7 @@
 	}
 </script>
 
-<div contenteditable="true" class="content f-500" use:init>{content}</div>
+<div contenteditable="true" class="content f-500">{content}</div>
 
 <style lang="scss">
 	.content {

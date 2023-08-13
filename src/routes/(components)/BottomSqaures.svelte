@@ -55,7 +55,7 @@
 		flex-direction: column;
 		width: 100%;
 		min-height: 300px;
-		gap: 5px;
+		gap: 4px;
 		border-radius: 0px;
 		box-shadow: 10px 20px 40px #0002;
 		padding-bottom: 15px;
@@ -63,6 +63,6 @@
 	.reverse {
 		display: flex;
 		flex-direction: column-reverse;
-		gap: 5px;
+		gap: 4px;
 	}
 </style>

@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Settings from '$lib/components/Settings.svelte';
+	import Player from '$lib/components/Player.svelte';
 	import BottomSqaures from './(components)/BottomSqaures.svelte';
 	import SearchInternet from './(components)/SearchInternet.svelte';
 
@@ -39,6 +40,7 @@
 	<br />
 	<BottomSqaures />
 	<Settings />
+	<Player />
 </div>
 
 <style lang="scss">
