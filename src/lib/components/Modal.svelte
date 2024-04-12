@@ -23,7 +23,7 @@
 	.bg {
 		position: fixed;
 		background-color: #3333;
-		top: 0;
+		top:0;
 		left: 0;
 		width: 100vw;
 		height: 100vh;
@@ -35,7 +35,7 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 		background-color: #3d3d3d;
-		border-radius: 0px;
+		border-radius: 10px;
 		overflow-x: hidden;
 		overflow-y: scroll;
 		height: 50vh;
@@ -46,8 +46,8 @@
 		border-radius: 10px;
 		height: 40px;
 		width: 40px;
-		top: 20px;
-		right: 20px;
+		top: 22vh;
+		right: 47vh;
 		background-color: #444;
 		display: flex;
 		justify-content: center;

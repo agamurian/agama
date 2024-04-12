@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+    "id":1,
+    "title":"My first note",
+    "content":"Here are some placeholder text"
+    },
+    {
+    "id":2,
+    "title":"My second note",
+    "content":"Here are some placeholder text number 2"
+    }
+  ],
+  "bookmarks": [
+    {
+    "id":1,
+    "link":"https://blender.org/"
+    },
+    {
+    "id":2,
+    "link":"https://gimp.org"
+    }
+  ],
+  "tasks": [
+    {
+    "id":1,
+    "name":"some task",
+    "due_date":"28.05.2024"
+    },
+    {
+    "id":2,
+    "name":"some other task",
+    "due_date":"30.05.2024"
+    }
+  ]
+}
